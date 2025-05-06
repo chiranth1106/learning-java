@@ -3,6 +3,8 @@ package automorphic_number;
 import java.util.Scanner;
 
 public class automorphic_number_variation {
+
+    // ORIGINAL NUMBER SHOULD BE EQUAL TO THE LAST DIGITS OF SQUARED NUMBER
     public static void main(String[] args) {
         System.out.print("IF UR CHECKING VARIATIONS FOR AUTOMORPHIC NUMBER MAKE SURE 'n' VALUE is '0' \n");
 
