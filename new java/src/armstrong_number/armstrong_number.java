@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class armstrong_number {
 
+    // THE SUM OF NUMBER TO THE POWER OF THE NUMBER OF DIGITS PRESENT IN THE NUMBER 
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of n: ");
