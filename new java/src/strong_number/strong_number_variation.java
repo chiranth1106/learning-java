@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class strong_number_variation {
 
+    //SUM OF FACTORIAL OF THE NUMBER SHOULD BE EQUAL TO THE ORIGNAL NUMBER
+
     static int f = 0, strong = 0;
 
     public static int factorial(int r, int fac){
