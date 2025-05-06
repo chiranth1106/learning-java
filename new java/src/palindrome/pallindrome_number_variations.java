@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class pallindrome_number_variations {
     //same logic as reverse digit
+    // THE FIRST AND LAST DIGIT OF THE NUMBER SHOULD BE SYMETRIC OR SAME
 
     public static void main(String[] args) {
         System.out.print("IF UR CHECKING VARIATIONS FOR PALLINDROME NUMBER MAKE SURE 'n' VALUE is '0' \n");
