@@ -5,7 +5,7 @@ public class blocks {
 
         // System.out.println("main method");
         System.out.println(blocks.i);
-        blocks b = new blocks();
+        blocks b = new blocks(); // object created or the non-static block
         System.out.println(b.j);
         System.out.println(blocks.i);
         // System.out.println(b.i);
